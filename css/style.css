@@ -158,7 +158,7 @@ body{background:url(../img/body.png) repeat-x #21052B left 33px;}
 .m1{padding:46px 0 0 30px;}
 /*-------------------元宵晚会m2--------------------------*/
 .m2{padding:48px 0 0 14px;}
-.m2 h2{font-size:21px; color:#FF0000; padding-left:10px;}
+.m2 h2 a{font-size:21px; color:#FF0000; padding-left:10px;}
 .m2 .br1{padding-left:10px; padding-right:35px;}
 .m2 .br1 p{margin-bottom:10px;}
 .m2 .br1 li{width:50%; line-height:18px;} 
