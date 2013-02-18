@@ -140,7 +140,7 @@ body{background:url(../img/body.png) repeat-x #21052B left 33px;}
 #b .r6{background:url(../img/b-r6.png) no-repeat; height:535px;}
 /*-------------------公共ma--------------------------*/
 .ma .h{line-height:66px; height:66px;}
-.ma h2{padding-left:46px; font-size:24px; color:#fff; font-weight:bold;}
+.ma h2{padding-left:46px; font-size:24px; color:#fff; font-weight:normal; font-family: '微软雅黑'}
 .ma .b{padding:14px 0 0 18px;}
 .ma .b a{font-size:14px; color:#656565;}
 .ma .br1{padding-left:4px; margin-bottom:10px;}
