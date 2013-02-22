@@ -175,13 +175,14 @@ h2{ font-weight:normal;}
 .m3 h2{line-height:44px;padding-left:46px; font-size:30px; color:#fff; font-weight:bold;}
 .m3 li{padding:4px 0; margin:0 1px;}
 /*-------------------精彩图片m7--------------------------*/
-.m7 .h{height:44px;}
+.m7 .h{height:44px; position:relative;}
 .m7 h2{line-height:44px;padding-left:46px; font-size:30px; color:#fff; font-weight:bold;}
+.m7 .more{position:absolute; top:12px; right:78px; color:#fff; font-size:16px;}
 .m7 .b{padding:18px 25px 5px;}
 .m7 dl{padding:10px 0; margin:0 8px;}
 .m7 img{padding:5px; border:1px solid #D6D6D6;}
 .m7 dt{font-size:14px; padding-top:5px;}
-.m7 a{display:block;}
+.m7 .b a{display:block;}
 /*-------------------模块m9--------------------------*/
 .m9 .bc1{width:296px; margin-left:50px;}
 .m9 .bc2{width:570px;}
